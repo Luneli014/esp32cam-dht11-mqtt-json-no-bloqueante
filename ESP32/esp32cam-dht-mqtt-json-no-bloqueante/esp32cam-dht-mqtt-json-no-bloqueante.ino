@@ -30,7 +30,7 @@ const char* password = "********";
 const char* mqtt_server = "192.168.*.*";
 
 // Datos del sensor
-#define DHTPIN 13 // Pin para conectar el DHT11, pin GPIO13 del ESP32CAM
+#define DHTPIN 14 // Pin para conectar el DHT11, pin GPIO13 del ESP32CAM
 #define DHTTYPE DHT11 // Configura el modelo de sensor, compatible también con DHT22
 
 // Variables para envio de mensajes
