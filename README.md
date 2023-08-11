@@ -4,3 +4,10 @@ Este repositorio muestra como realizar la conexión de un sensor DHT11 al ESP32C
 # Información
 
 Las instrucciones de este repositorio se encuentran en el taller [Estación climática con ESP32CAM y DHT11]() de la plataforma [edu.codigoiot.com](https://edu.codigoiot.com/)
+
+# Créditos
+
+Desarrollado por Karen Luna
+
+- [Página en Instagram](https://www.instagram.com/karen.luna14/)
+- [GitHub](https://github.com/Luneli014)
